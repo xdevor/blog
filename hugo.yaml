@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: Seven's Blog
-paginate: 5
+pagination.pagerSize: 5
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
